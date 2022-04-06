@@ -1,1 +1,1 @@
-# Hello-World-
+# Repository for POO project -- DummyCHEF application
